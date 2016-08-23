@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION;TYPE=WORK:3.0
+FN;CHARSET=UTF-8:Abigail Harrison
+N;CHARSET=UTF-8:Abigail Harrison;;;;
+PROFILE:VCARD
+ADR;CHARSET=UTF-8:;;5555 Nicollet Ave,PO Box 19574;Minneapolis;MN;55419;USA
+EMAIL:abby@astronautabby.com
+ORG:AstronautAbby
+URL:http://astronautabby.com/
+END:VCARD
